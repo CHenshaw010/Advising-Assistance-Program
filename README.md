@@ -1,4 +1,4 @@
-## This application provides a way to display the contents of a .txt file.
+## This C++ application provides a way to display the contents of a .txt file.
 
 ### Data Structure Comparison Breakdown:
 - [Cost Comparisons](https://github.com/CHenshaw010/Advising-Assistance-Program/blob/main/AdvisingAssistanceProgram_DataStructure_Examination.pdf)
